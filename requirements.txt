@@ -9,3 +9,4 @@ python-multipart==0.0.7
 docker
 pytest
 jinja2
+streamlit
